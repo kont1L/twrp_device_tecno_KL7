@@ -7,7 +7,7 @@
 DEVICE_PATH := device/tecno/KL7
 
 TARGET_RECOVERY_DEVICE_DIRS := \
-    $(DEVICE_PATH)
+    $(DEVICE_PATH) 
 
 # Architecture
 TARGET_ARCH := arm64
