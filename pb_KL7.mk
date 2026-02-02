@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from KL7 device
+# Inherit from KL7 device 
 $(call inherit-product, device/tecno/KL7/device.mk)
 
 # Inherit some common TWRP stuff.
