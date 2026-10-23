@@ -11,10 +11,10 @@ $(call inherit-product, device/tecno/KL7/device.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 # Product Specifics
-PRODUCT_NAME := pb_KL7
+PRODUCT_NAME := fox_KL7
 PRODUCT_DEVICE := KL7
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO KL7
-PRODUCT_MANUFACTURER := tecno
+PRODUCT_MANUFACTURER := TECNO
 
 PRODUCT_GMS_CLIENTID_BASE := android-tecno

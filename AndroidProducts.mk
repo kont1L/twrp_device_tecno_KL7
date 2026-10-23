@@ -5,7 +5,7 @@
 #
  
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pb_KL7.mk
+    $(LOCAL_DIR)/fox_KL7.mk
 
 COMMON_LUNCH_CHOICES := \
     pb_KL7-userdebug
