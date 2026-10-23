@@ -8,4 +8,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/fox_KL7.mk
 
 COMMON_LUNCH_CHOICES := \
-    pb_KL7-userdebug
+    fox_KL7-userdebug
